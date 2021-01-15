@@ -6,6 +6,6 @@ public class Cube : MonoBehaviour
 	{
 		Debug.log("Hello, I'm a Cube");
 		
-		tr.position = new Vector3(Random.Range(1;10,Random.Range(1;10,Random.Range(1;10));
+		tr.position = new Vector3(Random.Range(1;10),Random.Range(1;10),Random.Range(1;10));
 	}
 }
